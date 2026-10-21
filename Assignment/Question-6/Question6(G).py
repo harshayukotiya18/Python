@@ -1,8 +1,0 @@
-# g) Reverse the array and display the final result.
-
-from array import *;
-
-a=[1,2,3,4,5,6,7,8,9,10]
-
-a.reverse()
-print(a)

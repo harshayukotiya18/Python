@@ -1,7 +1,0 @@
-# Find the maximum, minimum, and length using max(), min(), and len().
-
-a=(1,2,3,4,5,6,7,8,9,10)
-print("maximum value:",max(a))
-print("minimum value:",min(a))
-print("length:",len(a))
-
